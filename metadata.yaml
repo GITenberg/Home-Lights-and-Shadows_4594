@@ -1,0 +1,37 @@
+_repo: Home-Lights-and-Shadows_4594
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Herbert, Uncle
+    - Uncle Herbert
+    - Arthur, Timothy Shay
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4594'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'American fiction -- 19th century'
+- GITenberg
+tableOfContents: Rights and wrongs -- The humbled Pharisee -- Romance and reality
+  -- Both to blame -- It's none of my business -- The mother's promise -- The two
+  husbands -- Visiting as neighbors -- Not at home -- The fatal error -- Following
+  the fashions -- A dollar on the conscience -- Aunt Mary's suggestion -- Helping
+  the poor -- Common people -- Making a sensation -- Something for a cold -- The portrait
+  -- Very poor.
+title: Home Lights and Shadows
+url: http://www.gutenberg.org/ebooks/4594
